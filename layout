@@ -1,0 +1,13 @@
+// Layout Order:
+// 1. Imports
+// 2. Errors
+// 3. Types
+// 4. State Variables
+// 5. Events
+// 6. Modifiers
+// 7. Constructor
+// 8. receive/fallback
+// 9. External
+// 10. Public
+// 11. Internal
+// 12. Private
